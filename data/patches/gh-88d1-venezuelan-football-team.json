@@ -1,0 +1,72 @@
+{
+	"id": 3410,
+	"name": "Venezuelan football team",
+	"description": "The shirt of the Venezuelan soccer team, or \"La Vinotinto\" (Red Wine) as it is also known in the South American country",
+	"links": {
+		"website": [
+			"https://es.wikipedia.org/wiki/Uniforme_de_la_selección_de_fútbol_de_Venezuela"
+		],
+		"subreddit": [
+			"vzla",
+			"venezuela",
+			"placevzla"
+		],
+		"discord": [
+			"HN3g9Tszda"
+		]
+	},
+	"path": {
+		"250-258": [
+			[
+				1403,
+				823
+			],
+			[
+				1403,
+				816
+			],
+			[
+				1400,
+				816
+			],
+			[
+				1400,
+				811
+			],
+			[
+				1405,
+				807
+			],
+			[
+				1412,
+				806
+			],
+			[
+				1417,
+				811
+			],
+			[
+				1416,
+				816
+			],
+			[
+				1414,
+				816
+			],
+			[
+				1414,
+				823
+			],
+			[
+				1408,
+				823
+			]
+		]
+	},
+	"center": {
+		"250-258": [
+			1409,
+			813
+		]
+	}
+}
