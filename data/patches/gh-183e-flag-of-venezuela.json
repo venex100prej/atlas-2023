@@ -1,0 +1,45 @@
+{
+	"id": 2487,
+	"name": "Flag of Venezuela",
+	"description": "Venezuela is a country on the north side of South America. \n\nRepresentative drawing of:\n\nPico Bolivar: highest mountain in Venezuela, at 4,978 metres (16,332 ft)\n\nMérida cable car: It is the highest and second longest cable car globally for just 500 meters. Mérida Cable Car is a journey of 12.5 kilometres, reaching an elevation of 4,765 meters, making it an engineering marvel that is one of a kind and has over 40 years of history.\n\nNational Football Tshirt\n\nEmpanada: Traditional Venezuelan empanadas are made with ground corn dough, though modern versions are made with precooked corn. The dough may have a yellow color when toasted due to the addition of annatto. The fillings are very diverse, with the most conventional being cheese, shredded beef, chicken, cazón (school shark) in the Margaritan Island region especially, ham, black beans and cheese (commonly called dominó) and even combinations of mollusks.\n\nMalta: is a lightly carbonated, non-alcoholic malt beverage brewed from barley, hops, and water; corn and caramel color may also be added.\n\nThe following countries left a heart in our flag:\nUkraine\nChile\nArgentina\nMéxico\nBrasil\nMorocco\nEgipt\nPalestine\nGermany\nEspaña\nUruguay",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Venezuela",
+			"https://en.wikipedia.org/wiki/Flag_of_Venezuela"
+		],
+		"subreddit": [
+			"placevzla",
+			"vzla"
+		]
+	},
+	"path": {
+		"202-256": [
+			[
+				1399,
+				780
+			],
+			[
+				1399,
+				825
+			],
+			[
+				1499,
+				825
+			],
+			[
+				1499,
+				780
+			],
+			[
+				1499,
+				781
+			]
+		]
+	},
+	"center": {
+		"202-256": [
+			1444,
+			803
+		]
+	}
+}
